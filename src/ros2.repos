@@ -12,3 +12,7 @@ repositories:
     type: git
     url: https://github.com/StephenWelch/pandora.git
     version: master
+  ethercat_driver_ros2:
+    type: git
+    url: https://gitlab.com/etherlab.org/ethercat.git
+    version: master
